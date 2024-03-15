@@ -1,8 +1,3 @@
-
-```
-NAME: HARISH RAGAV S
-ROLL NO : 212222110013
-```
 # EXPERIMENT--03-INTERFACING IOT DEVELOPEMENT BOARD AND CONFIGURE THE USART FOR TRANSFERRING STRINGS
 ## Aim:
 To Interface aN iot developement board and to configure usart for transferring strings.
@@ -60,8 +55,8 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 ## STM 32 CUBE PROGRAM :
 
 ```
-Developed By:Challa Sandeep
-Register No:212221240011
+Developed By: Harish Ragav S
+Reg No: 212222110013
 ```
 
 ```
